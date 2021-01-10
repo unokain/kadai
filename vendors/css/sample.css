@@ -27,18 +27,23 @@ header ul {
 header ul a {
     color:#ffffff;
     text-decoration: none;
+
 }
 header li {
   list-style: none;
   padding: 10px;
-
-}
-.left {
-  float:left;
-}
-.right{
   float:right;
 }
+
+
+
+.left {
+float:left;
+}
+.right{
+
+}
+
 
 
 .clearfix:after {
